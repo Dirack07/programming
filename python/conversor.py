@@ -7,7 +7,7 @@ def conversor(tipo_pesos, valor_dolar):
     print("Tienes $ " + dolares + " dolares")
 
 menu = """
-Bienvenido al conversor de monedas
+Bienvenido al conversor a tipo de monedas
 
 1.-Pesos Mexicanos a Dolares
 2.-Pesos Argentinos a Dolares
@@ -31,3 +31,5 @@ elif opcion ==3:
 
 else:
     print("Ingresa una opcion correcta")
+
+
