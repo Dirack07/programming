@@ -1,1 +1,0 @@
-{print "Campo 1: " $1 " ultimo campo: " $NF}
