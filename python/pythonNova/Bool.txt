@@ -1,0 +1,15 @@
+# Los boolenaos son tipos de datos binario (TRUE/FALSE) que surgen de operaciones logicas pueden declararse explicitamente
+
+#        Operados logicos
+
+
+== Igual a 
+!= Diferente a
+> Mayor que
+< Menor que
+>= Mayor o igual que
+<= Menor o igual que
+AND      Y(True si dos declaracione son True)
+OR       O(True si al menos una declaracion es True)
+NOT      NO(Invierte el valor a booleano)
+

@@ -1,0 +1,8 @@
+# Vamos a crear un codigo que solicite al usuario dos listas de palabras y almacene las palabras unicas de ambas listas en un diccionario 
+
+# que tenga como claves "lista1" y "lista2" despues imprimir el diccionario
+
+lista1 = set(input("Ingresa palabras separadas por comas para la lista 1: ").split(','))
+lista2 = set(input("Ingresa palabras separadas por comas para la lista 2: ").split(','))
+diccionario = {"lista1": lista1, "lista2": lista2}
+print(diccionario)

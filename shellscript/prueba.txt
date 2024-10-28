@@ -1,0 +1,16 @@
+ALERTA "ALERTA_ABC"
+    EQUIPO (
+        EQUIPO \EQUIPO123
+        FINAL_EQUIPO
+    )
+    CONDICION (
+        ALERTA_CONDICION "PROCESO AXPR"
+            ACCION (
+                ACCION
+
+                )
+                FINAL_ACCION
+            )
+        FIN_ALERTA_CONDICION
+    )
+FIN_ALERTA

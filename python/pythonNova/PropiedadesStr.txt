@@ -1,0 +1,41 @@
+
+
+#SON INMUTABLES
+
+nombre = "Carina"
+nombre[0] = "K"
+print(nombre)
+
+
+#CONCATENABLES
+n1 = "Kari"
+n2 = "na"
+print(n1+n2)
+
+#MULTIPLICABLES
+n1 = "Kari"
+n2 = "na"
+print(n1*10)
+
+
+#VERIFICAR SU CONTENIDO
+poema = "Mil pequeños peces blancos como si hirviera el color del agua"
+print(poema)
+
+poema = "Mil pequeños peces blancos como si hirviera el color del agua"
+print("agua" in poema)
+
+poema = "Mil pequeños peces blancos como si hirviera el color del agua"
+print("sol" in poema)
+
+poema = "Mil pequeños peces blancos como si hirviera el color del agua"
+print("sol" not in poema)
+
+poema = "Mil pequeños peces blancos como si hirviera el color del agua"
+print("agua" not in poema)
+
+
+#DETERMINAR SU LONGITUD
+poema = "Mil pequeños peces blancos como si hirviera el color del agua"
+print(len(poema))
+
