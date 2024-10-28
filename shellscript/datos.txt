@@ -1,0 +1,4 @@
+Etiqueta1 10 20
+Etiqueta2 30 40
+Etiqueta1 50 60
+Etiqueta2 70 80
